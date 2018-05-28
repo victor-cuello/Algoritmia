@@ -1,0 +1,7 @@
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Algoritmia\Algoritmia\bin\Debug\Algoritmia.exe.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Algoritmia\Algoritmia\bin\Debug\Algoritmia.exe
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Algoritmia\Algoritmia\bin\Debug\Algoritmia.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Algoritmia\Algoritmia\obj\Debug\Algoritmia.csprojAssemblyReference.cache
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Algoritmia\Algoritmia\obj\Debug\Algoritmia.csproj.CoreCompileInputs.cache
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Algoritmia\Algoritmia\obj\Debug\Algoritmia.exe
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Algoritmia\Algoritmia\obj\Debug\Algoritmia.pdb
